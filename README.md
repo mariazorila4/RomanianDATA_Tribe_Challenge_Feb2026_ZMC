@@ -50,8 +50,8 @@ To achieve a high-fidelity "makeover" of the original dataset, the following tec
 To explore the demographic shifts within the dashboard, follow these steps:
 
 1. **Select a Timeframe**: Use the **Timeline (Slicer)** on the left to select a specific year. The dashboard will automatically calculate the population change relative to the 2012 baseline.
-2. **Interact with the Map**: Click on any county on the **Main Map** to filter the entire report. The KPI cards and the bar chart will update to show data specific to that region.
-3. **Analyze Growth Hubs**: Observe the **Suburban Expansion** inset for a detailed look at the Bucharest-Ilfov area, or check the **Top Growth Leaders** chart to see which counties are resisting the national decline.
+2. **Interact with the Map**: Click on any county on the **Shrinking Map of Romania** to filter the entire report. The KPI cards and the bar chart will update to show data specific to that region.
+3. **Analyze Growth Hubs**: Observe the **Suburbanization Peak** inset for a detailed look at the Bucharest-Ilfov area, or check the **Top Growth Hubs** chart to see which counties are resisting the national decline.
 4. **Reset View**: To return to the national average, simply click on any empty space within the map or clear the selection in the slicer.
 
 
